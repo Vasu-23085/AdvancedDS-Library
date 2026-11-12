@@ -1,0 +1,22 @@
+# CMake build output
+build/
+cmake-build-*/
+
+# Compiled files
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# IDE settings
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
